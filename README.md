@@ -1,2 +1,2 @@
 # Datepicker
-Egyszerű dátumkiválasztós felület, e-mail autentikációval.
+Egyszerű dátumkiválasztós felület, e-mail authentikációval Jquery-vel.
