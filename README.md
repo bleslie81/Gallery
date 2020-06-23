@@ -1,2 +1,2 @@
-# Gallery
-Egyszerű jquery képtár...
+# Datepicker
+Egyszerű dátumkiválasztós felület, e-mail autentikációval.
